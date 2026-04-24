@@ -18,5 +18,3 @@ else:
 print(f"В числе {number}:")
 print(f"Количество цифр: {count}")
 print(f"Сумма цифр: {total_sum}")
-print(123//10)
-print(123%10)
